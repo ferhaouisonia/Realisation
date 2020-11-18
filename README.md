@@ -21,19 +21,19 @@ Travaux réalisés
 
   # Logo : 
 
-  ![](SpringLogo.PNG)
+  ![](SpringLogo.png)
 
   # Home Page :
 
-  ![](SpringHome.PNG)
+  ![](SpringHome.png)
 
   # Login Page :
 
-  ![](SpringLogin.PNG)
+  ![](SpringLogin.png)
 
   # Register Page :
 
-  ![](SpringUserAccount.PNG)
+  ![](SpringUserAccount.png)
 
   # User Account Page :
-  ![](SpringChangSettings.PNG)
+  ![](SpringChangSettings.png)
