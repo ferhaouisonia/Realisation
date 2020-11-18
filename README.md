@@ -6,16 +6,20 @@ Travaux réalisés
 * Backend:NodeJs 
 * Frontend: PUG + CSS
 
-# Login Page :
+  # Logo : 
 
-![](TrocLogin.PNG)
+    ![](TrocLogo.png)
 
-# Register Page :
+  # Login Page :
 
-![](TrocRegisterr.PNG)
+  ![](TrocLogin.PNG)
 
-# User Account Page :
-![](UserAccount.PNG)
+  # Register Page :
+
+  ![](TrocRegisterr.PNG)
+
+  # User Account Page :
+  ![](UserAccount.PNG)
 
 # Project Web (Spring, VueJs, Thymeleaf, HTML, CSS, MYSQL)
 
@@ -36,4 +40,4 @@ Travaux réalisés
   ![](SpringUserAccount.png)
 
   # User Account Page :
-  ![](SpringChangSettings.png)
+  ![](SpringAccountSettings.png)
