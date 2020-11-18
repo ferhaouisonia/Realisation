@@ -8,8 +8,8 @@ Travaux réalisés
 
 # Login Page :
 
-![](TrocLogin.png)
+![](TrocLogin.PNG)
 
 # Register Page :
 
-![](TrocRegisterr.png)
+![](TrocRegisterr.PNG)
