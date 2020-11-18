@@ -1,8 +1,15 @@
 ## Realisation
 Travaux réalisés
 
-# Projet Application Web, document numérique
+# Project Web Application 
+
 * Backend:NodeJs 
 * Frontend: PUG + CSS
+
+# Login Page :
+
 ![](TrocLogin.png)
+
+# Register Page :
+
 ![](TrocRegisterr.png)
