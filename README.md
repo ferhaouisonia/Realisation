@@ -5,3 +5,4 @@ Travaux réalisés
 * Backend:NodeJs 
 * Frontend: PUG + CSS
 ![](TrocLogin.png)
+![](TrocRegisterr.png)
