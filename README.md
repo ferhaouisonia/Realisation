@@ -46,15 +46,11 @@ Travaux réalisés
   
   # Formulaire Utilisateur:
 
-  ![](formulaire.png)
+  ![](formulairev2.png)
 
   # comparison criterion for BI Tools:
 
-  ![](Comparaison d'outils BI_Criteres.png)
-
-  # User Account Page :
-
-  ![](SpringUserAccount.png)
+  ![](ComparaisondoutilsBICriteres.png)
 
   # comparison matrix:
   ![](matrice_de_comparaison.png)
