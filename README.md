@@ -41,3 +41,23 @@ Travaux réalisés
 
   # Account Settings Page :
   ![](SpringAccountSettings.png)
+  
+  # Project Decision Support System (BI) 
+  
+  # Formulaire Utilisateur:
+
+  ![](formulaire.png)
+
+  # comparison criterion for BI Tools:
+
+  ![](Comparaison d'outils BI_Criteres.png)
+
+  # User Account Page :
+
+  ![](SpringUserAccount.png)
+
+  # comparison matrix:
+  ![](matrice_de_comparaison.png)
+  
+  # comparison graph:
+  ![](graphe.png)
