@@ -35,9 +35,9 @@ Travaux réalisés
 
   ![](SpringLogin.png)
 
-  # Register Page :
+  # User Account Page :
 
   ![](SpringUserAccount.png)
 
-  # User Account Page :
+  # Account Settings Page :
   ![](SpringAccountSettings.png)
