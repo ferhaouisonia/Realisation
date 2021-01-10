@@ -25,6 +25,26 @@ Travaux réalisés
   # Message sending form:
   
   ![](formMsg.png)
+  
+# Project Web Application for Movies and series manager 
+
+* Backend:NodeJs 
+* Frontend: HTML + CSS
+ # Home Page :
+
+  ![](HomeMov.PNG)
+  
+# Adding Film or serie Form :
+
+  ![](addform.PNG)
+  
+  # Film Details Page :
+
+  ![](filmPage.PNG)
+
+  # Serie Details Page :
+  
+  ![](SeriePage.png)
 
 # Project Web (Spring, VueJs, Thymeleaf, HTML, CSS, MYSQL)
 
