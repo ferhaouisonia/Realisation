@@ -36,15 +36,15 @@ Travaux réalisés
   
 # Adding Film or serie Form :
 
-  ![](addform.PNG)
+  ![](addform.jpg)
   
   # Film Details Page :
 
-  ![](filmPage.PNG)
+  ![](filmPage.jpg)
 
   # Serie Details Page :
   
-  ![](SeriePage.png)
+  ![](SeriePage.jpg)
 
 # Project Web (Spring, VueJs, Thymeleaf, HTML, CSS, MYSQL)
 
