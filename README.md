@@ -72,3 +72,32 @@ Travaux réalisés
    # Logo HealDroid: 
 
    ![](SpringLogo.png)
+   
+   # Prototype d'interfaces graphiques: 
+   
+   # Home Page:
+   ![](Demar.png)
+   
+  # Authentification interfaces:
+   ![](authentification.png)
+   
+   # Clocking interfaces:
+   ![](NFC.png)
+   
+   # Research interfaces:
+   ![](rech.png)
+   
+   # Appointment Page:
+   ![](RDV.png)
+   
+   # Message sending Page:
+   ![](MSG.png)
+   
+   # Doctor Options:
+   ![](DocPage.png)
+   
+   # Patient Page:
+   ![](PatientPage.png)
+   
+   # facial recognition interfaces:
+   ![](RecFac.png)
