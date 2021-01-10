@@ -16,11 +16,11 @@ Travaux réalisés
 
   # Register Page :
 
-  ![](TrocRegisterr.PNG)
+  ![](TrocRegisterr.png)
 
   # User Account Page :
   
-  ![](UserAccount.PNG)
+  ![](UserAccount.png)
   
   # Message sending form:
   
