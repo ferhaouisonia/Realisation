@@ -63,5 +63,12 @@ Travaux réalisés
   # comparison graph:
   ![](graphe.png)
   
-  # Comming Project mobile application (React native)
+ # Comming Project mobile application (React native) HealDroid
   
+   # Logo Entreprise: 
+
+   ![](logoAH.png)
+
+   # Logo HealDroid: 
+
+   ![](SpringLogo.png)
