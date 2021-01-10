@@ -21,7 +21,7 @@ Travaux réalisés
   # User Account Page :
   ![](UserAccount.PNG)
   
-  # User Account Page :
+  # Message sending form:
   ![](formMsg.PNG)
 
 # Project Web (Spring, VueJs, Thymeleaf, HTML, CSS, MYSQL)
