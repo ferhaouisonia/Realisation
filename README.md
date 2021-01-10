@@ -16,7 +16,7 @@ Travaux réalisés
 
   # Register Page :
 
-  ![](TrocRegisterr.png)
+  ![](TrocRegisterr.PNG)
 
   # User Account Page :
   
@@ -24,7 +24,7 @@ Travaux réalisés
   
   # Message sending form:
   
-  ![](formMsg.PNG)
+  ![](formMsg.png)
 
 # Project Web (Spring, VueJs, Thymeleaf, HTML, CSS, MYSQL)
 
