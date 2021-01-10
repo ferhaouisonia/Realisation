@@ -3,7 +3,7 @@ Travaux réalisés
 
 # Project Web Application 
 
-* Backend:NodeJs 
+* Backend: NodeJs 
 * Frontend: PUG + CSS
 
   # Logo : 
@@ -28,8 +28,8 @@ Travaux réalisés
   
 # Project Web Application for Movies and series manager 
 
-* Backend:NodeJs 
-* Frontend: HTML + CSS
+* Backend: NodeJs 
+* Frontend: HTML + CSS + Javascript
  # Home Page :
 
   ![](HomeMov.jpg)
