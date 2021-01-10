@@ -32,7 +32,7 @@ Travaux réalisés
 * Frontend: HTML + CSS
  # Home Page :
 
-  ![](HomeMov.PNG)
+  ![](HomeMov.jpg)
   
 # Adding Film or serie Form :
 
